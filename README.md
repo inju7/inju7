@@ -174,5 +174,5 @@ I am a **software developer** with hands-on experience in backend systems, data 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:0F172A&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0:22D3EE,100:0F172A&height=120&section=footer"/>
 </p>
