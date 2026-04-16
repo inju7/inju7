@@ -52,4 +52,5 @@ I am a **software developer** with hands-on experience in project management, fr
 
 - Performed model experimentation and evaluation  
 - Explored real-time feedback systems  
-- Worked with data processing and model behavior  
+- Worked with data processing and model behavior
+
