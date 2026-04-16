@@ -18,22 +18,26 @@
   <img src="https://skillicons.dev/icons?i=react,ts,javascript,html,css,tailwindcss,supabase,figma,docker,python,angular,nodejs,mysql,postman,tensorflow,vite" />
 </p>
 
----
 
 # About Me
 
 I am a **software developer** with hands-on experience in project management, front-end development and back-end development. I am currently learning database, game development, and data analytics. My work focuses on **building reliable systems, analyzing data, and integrating technologies** to support real-world applications.
 
----
+
 # Projects
 
 **Personal**
 
-[![YTMP3Downloader](https://github-readme-stats.vercel.app/api/pin/?username=inju7&repo=ytmp3-downloader)](https://github.com/inju7/ytmp3-downloader)
+<p align="center">
+  <a href="https://github.com/inju7/ytmp3-downloader">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=inju7&repo=ytmp3-downloader&theme=tokyonight&border_radius=12" />
+  </a>
+  <a href="https://github.com/inju7/3d_blogspot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=inju7&repo=3d_blogspot&theme=tokyonight&border_radius=12" />
+  </a>
+</p>
 
-**Freelance/Collaboration Projects**
 
----
 
 # Machine Learning
 
@@ -50,21 +54,11 @@ I am a **software developer** with hands-on experience in project management, fr
 - Explored real-time feedback systems  
 - Worked with data processing and model behavior  
 
-# Current Focus
-
-- Building **full-stack web applications**
-- Exploring **AI + automation workflows**
-- Enhancing **data engineering & analytics skills**
-- Developing systems for **game projects (CYBERWISE)**
-
----
 
 # Let’s Connect
 
 - allorde.arian@gmail.com  
 - linkedin.com/in/arian-a-a330ab368  
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0:22D3EE,100:0F172A&height=120&section=footer"/>
