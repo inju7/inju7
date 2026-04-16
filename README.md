@@ -32,7 +32,7 @@ I am a **software developer** with hands-on experience in project management, fr
   <a href="https://github.com/inju7/ytmp3-downloader">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=inju7&repo=ytmp3-downloader&theme=tokyonight&border_radius=12" />
   </a>
-  <a href="https://github.com/inju7/3d_blogspot">
+  <a href="https://github.com/inju7/3d_blogspot&v=2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=inju7&repo=3d_blogspot&theme=tokyonight&border_radius=12" />
   </a>
 </p>
