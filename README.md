@@ -1,5 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:0F172A,100:22D3EE&height=200&section=header&text=Arian%20Allorde&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <a href="https://arianmta.vercel.app">
+    <img src="https://capsule-render.vercel.app/api?type=blur&color=0:0F172A,100:22D3EE&height=200&section=header&text=Arian%20Allorde&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  </a>
+</p>
+<p align="center">
+  <strong>click on the header above to visit my portfolio</strong>
 </p>
 <p align="center">
   <strong>Software Developer • Data & Systems • AI & Automation • Game Development</strong>
