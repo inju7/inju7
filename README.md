@@ -43,4 +43,8 @@ I am a **software developer** with hands-on experience in project management, fr
 - Performed model experimentation and evaluation  
 - Explored real-time feedback systems  
 - Worked with data processing and model behavior
+- developed with [@gelogrammer](https://github.com/gelogrammer) & [@Bia495](https://github.com/Bia495)
+
+
+
 
